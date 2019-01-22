@@ -1,2 +1,2 @@
 # hello-world
-public files
+some public files
